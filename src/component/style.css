@@ -1,0 +1,40 @@
+div .row {
+  display: flex;
+  align-items: center;
+}
+
+.button {
+  border: 1px solid black;
+  width: 50px;
+  height: 50px;
+  background: grey;
+  font-size: border;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+
+.clear {
+  width: 200px;
+  background: orange;
+  color: black;
+  height: 50px;
+  border: 1px solid black;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.operator {
+  color: black;
+  background: orange;
+}
+
+.input {
+  margin-top: 20px;
+  background: black;
+  color: white;
+  height: 80px;
+  width: 200px;
+  border: 1px solid black;
+}
